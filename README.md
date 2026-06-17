@@ -69,4 +69,4 @@ The program will create a `books.txt` file in the same directory to persist data
 
 ## Author
 
-`<Your Name>` — built as a practical application of core DSA concepts (Hashing, Trie, Queue, Heap) in C++.
+`Sachin Kumar` — built as a practical application of core DSA concepts (Hashing, Trie, Queue, Heap) in C++.
