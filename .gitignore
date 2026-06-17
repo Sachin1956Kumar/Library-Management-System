@@ -1,0 +1,20 @@
+# Compiled binaries
+lms
+*.exe
+*.out
+*.o
+*.obj
+
+# Runtime generated data (don't commit user data/persistence file)
+books.txt
+
+# Build directories
+build/
+bin/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
